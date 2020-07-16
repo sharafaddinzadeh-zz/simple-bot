@@ -11,6 +11,5 @@ Bot implementation steps:
 
 **Protip**: You can find an option called *Open command window here* using `Shift + Right click Mouse`, That will get you to CMD faster!
 
- * Join our channel at [Discord](https://discord.gg/wWarT8G)
  * [Website](https://javadsharafodinzadeh.ir/discord-lifebuoy)
  * Owner: [Javad Sharafodin Zadeh](https://javadsharafodinzadeh.ir)
